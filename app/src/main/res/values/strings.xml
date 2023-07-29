@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InformationBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="moon_crater">
+        <b>First Crater</b>:\t 1919 \n
+        <b>Second Crater</b>:\t 1919 \n
+        <b>Third Crater</b>:\t 1919 \n
+
+    </string>
+</resources>
